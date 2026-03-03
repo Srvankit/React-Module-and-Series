@@ -66,35 +66,36 @@ Understanding the difference between them helps me learn:
 ---
 
 ## 🗂 Repository Structure
-React-Module-and-Series
+
+```
+React-Module-and-Series/
 │
-├── 01basicreact
-├── bgChangerProject
-├── custom-react
-├── hooksinreact
+├── 01basicreact/
+├── bgChangerProject/
+├── custom-react/
+├── hooksinreact/
 │
 └── README.md
-
+```
 
 Each project folder typically contains:
 
-project-folder
+```
+project-folder/
 │
-├── node_modules
-├── public
-├── src
-│   ├── assets
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── index.css
-│   └── other components
+│   └── other-components/
 │
 ├── package.json
-├── vite.config.js (if created using Vite)
+├── vite.config.js   (if created using Vite)
 └── index.html
-
-
----
+```
 
 ## 📁 Important Files Explained
 
