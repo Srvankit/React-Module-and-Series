@@ -77,16 +77,17 @@ React-Module-and-Series
 
 
 Each project folder typically contains:
+
 project-folder
 │
 ├── node_modules
 ├── public
 ├── src
-│ ├── assets
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── index.css
-│ └── other components
+│   ├── assets
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   └── other components
 │
 ├── package.json
 ├── vite.config.js (if created using Vite)
